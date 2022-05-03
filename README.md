@@ -1,7 +1,7 @@
 # 100 Days Of Code Diary / School of Code Bootcamp Diary
 ## Pre camp work
 
-As part of my application to SoC we were asked to make a game in scratch. I had previously played with scratch as part of Harvards CS50x and didn't enjoy the site that much. However i am really proud of this game inspired by @enbiggens (on IG) digital art
+As part of my application to SoC we were asked to make a game in scratch. I had previously played with scratch as part of Harvards CS50x and didn't enjoy the site that much. However i am really proud of this game inspired by @enbiggens (on IG) digital art (https://www.instagram.com/reel/CctlEZRt7Dq/?utm_source=ig_web_copy_link)
 
 https://scratch.mit.edu/projects/639113242
 
