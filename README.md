@@ -32,8 +32,7 @@ _25th April_
 _26th April_
 
 ### Today's progress:
--Today i met my coding partner which was really nice as previously I have only tried to code alone. Its nice to have another brain to bounce idea around.
--We covered computational thinking
+
 
 
 ### Thoughts:
@@ -50,8 +49,7 @@ _26th April_
 _27th April_
 
 ### Today's progress:
--Today i met my coding partner which was really nice as previously I have only tried to code alone. Its nice to have another brain to bounce idea around.
--We covered computational thinking
+
 
 
 ### Thoughts:
@@ -139,7 +137,7 @@ The Slack channel has been great with people logging on all day to help and shar
 
 ### Links to work / resources:
 
-## Day 9 (BootCamnp W2)
+## Day 9 (BootCamp W2)
 _3rd May_
 
 ### Today's progress:
