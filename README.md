@@ -164,4 +164,6 @@ _3rd May_
  - Dom is interesting but still a huge concept. I will take a look at w3 to reinforce my understanding. 
 
 ### Links to work / resources:
+Codewars tasks
 
+![day 2 exercises on CodeWars](/Images/D1W2%20codewars.JPG)
