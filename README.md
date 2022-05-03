@@ -1,6 +1,3 @@
-# 100DaysOfCode
-#100 Days Of Code
-
 # 100 Days Of Code Diary / School of Code Bootcamp Diary
 
 ## Day 1
