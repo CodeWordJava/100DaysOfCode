@@ -146,6 +146,19 @@ _3rd May_
  - New team mates this week ! I have met Christophe and Luna before in a group exercise so was excited i got to work with them both and see how they work as an established team and what i could contribute.
  - We covered Event listers and object manipulation using document.queryselector
  - I learnt how in add emoji to JS
+#### after Hours 
+-Restarted Codecademy JS - review string concatention and cosole.log which I'm super comfortable with. Also reviewed Math.floor and Math.Randoom which are a bit rusty but i think i will grasp quickly.
+#####take away notes
+ - Data is printed, or logged, to the console, a panel that displays messages, with console.log().
+ - We can write single-line comments with // and multi-line comments between /* and */.
+ - There are 7 fundamental data types in JavaScript: strings, numbers, booleans, null, undefined, symbol, and object.
+ - Numbers are any number without quotes: 23.8879
+ - Strings are characters wrapped in single or double quotes: 'Sample String'
+ - The built-in arithmetic operators include +, -, *, /, and %.
+ - Objects, including instances of data types, can have properties, stored information. The properties are denoted with a . after the name of the object, for example: 'Hello'.length.
+ - Objects, including instances of data types, can have methods which perform actions. Methods are called by appending the object or instance with a period, the method name, and parentheses. For example: 'hello'.toUpperCase().
+ - We can access properties and methods by using the ., dot operator.
+ - Built-in objects, including Math, are collections of methods and properties that JavaScript provides. The correct format for Math.floor() or (Math.floor(Math.randon()*x))
 
 ### Thoughts:
  - Dom is interesting but still a huge concept. I will take a look at w3 to reinforce my understanding. 
