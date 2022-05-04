@@ -147,8 +147,9 @@ _3rd May_
  - We covered Event listers and object manipulation using document.queryselector
  - I learnt how in add emoji to JS
 #### after Hours 
--Restarted Codecademy JS - review string concatention and cosole.log which I'm super comfortable with. Also reviewed Math.floor and Math.Randoom which are a bit rusty but i think i will grasp quickly.
-#####take away notes
+
+- Restarted Codecademy JS - review string concatention and cosole.log which I'm super comfortable with. Also reviewed Math.floor and Math.Randoom which are a bit rusty but i think i will grasp quickly.
+
  - Data is printed, or logged, to the console, a panel that displays messages, with console.log().
  - We can write single-line comments with // and multi-line comments between /* and */.
  - There are 7 fundamental data types in JavaScript: strings, numbers, booleans, null, undefined, symbol, and object.
@@ -167,3 +168,36 @@ _3rd May_
 Codewars tasks
 
 ![day 2 exercises on CodeWars](/Images/D1W2%20codewars.JPG)
+
+## Day 10 (BootCamp W2)
+_4th May_
+
+### Today's progress:
+ - covered more on eventlistners and the DOM
+ - looked at Asynchronous code and intro into JSON
+ - Christophe took the lead on the Kayne workshop taks so i need to have a play with these when I fork the repo.
+
+#### after Hours 
+##### take away notes
+ - Codecademy JS 
+
+ - Variables hold reusable data in a program and associate it with a name.
+ - Variables are stored in memory.
+ - The var keyword is used in pre-ES6 versions of JS.
+ - let is the preferred way to declare a variable when it can be reassigned, and const is the preferred way to declare a variable with a constant value.
+ - Variables that have not been initialized store the primitive data type undefined.
+ - Mathematical assignment operators make it easy to calculate a new value and assign it to the same variable.
+ - The + operator is used to concatenate strings including string values held in variables.
+ - In ES6, template literals use backticks ` and ${} to interpolate values into a string.
+ - The typeof keyword returns the data type (as a string) of a value.
+ 
+_SoC afterhours_
+
+
+
+### Thoughts:
+ - its really hard to get some space to digest everything that is coming in but i am hoping that i will start to recognise more as each day moves forward.
+
+### Links to work / resources:
+Codewars tasks
+![day3 exercises on CW](/Images/CW%20W2D2.JPG)
