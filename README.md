@@ -99,11 +99,11 @@ WIP  - in my repo
 _30th April_
 
 ### Today's progress:
- - i forked the week 1 tasks and completed the outstanding exercises and redid the completed ones so I understood how i would approah each of the tasks. 
+ - I forked the week 1 tasks and completed the outstanding exercises and redid the completed ones so I understood how i would approah each of the tasks. 
 
 
 ### Thoughts:
- -I think i will continue to fork the weeks workshop tasks as some of the code and problem solving isn't being articulated during our pair programming so i need a bit of time to work each task through rather than being given the answer by my partner.
+ - I think i will continue to fork the weeks workshop tasks as some of the code and problem solving isn't being articulated during our pair programming so i need a bit of time to work each task through rather than being given the answer by my partner.
 
 
 ### Links to work / resources:
@@ -175,7 +175,7 @@ _4th May_
 ### Today's progress:
  - covered more on eventlistners and the DOM
  - looked at Asynchronous code and intro into JSON
- - Christophe took the lead on the Kayne workshop taks so i need to have a play with these when I fork the repo.
+ - Christophe took the lead on the Kayne workshop task so i need to have a play with these when I fork the repo.
 
 #### after Hours 
 ##### take away notes
@@ -194,10 +194,43 @@ _4th May_
 _SoC afterhours_
 
 
-
 ### Thoughts:
  - its really hard to get some space to digest everything that is coming in but i am hoping that i will start to recognise more as each day moves forward.
 
 ### Links to work / resources:
 Codewars tasks
 ![day3 exercises on CW](/Images/CW%20W2D2.JPG)
+
+## Day 10 (BootCamp W2)
+_5th May_
+
+### Today's progress:
+ - intro to fetch commands and rocket game
+
+#### after Hours 
+ - reviewed 1st 2 DOM workshops and completed them.
+ - still struggling to redo these tasks without reviewing completed examples but hopeful it will come to me with practice.
+ 
+### Thoughts:
+ - Today was fairly low energy for me as life commitments had sucked a lot of my energy today.
+ - GET, POST and FETCG are confusing
+
+### Links to work / resources:
+
+## Day 11 (BootCamp W2)
+_6th May_
+
+### Today's progress:
+ - HACKATHON 2...Rock, Paper, Pokemon?!
+
+#### after Hours 
+ - codecadmey conditional statments and loops
+ - FCCreview algorithms and data structures
+ 
+### Thoughts:
+ -Felt like i was just a project manager today getting the team to deliver MVP which was different. I think because the team was bigger it was harder to keep pushing and pulling to git.
+
+### Links to work / resources:
+![Conditional Statment](/Images/conditional%20statements1.JPG)
+
+![Conditional Statment](/Images/conditional%20statements2.jpg)
