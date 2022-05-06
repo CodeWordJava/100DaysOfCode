@@ -231,6 +231,9 @@ _6th May_
  -Felt like i was just a project manager today getting the team to deliver MVP which was different. I think because the team was bigger it was harder to keep pushing and pulling to git.
 
 ### Links to work / resources:
+https://github.com/CodeWordJava/W2-Hackathon
+
+
 ![Conditional Statment](/Images/conditional%20statements1.JPG)
 
 ![Conditional Statment](/Images/conditional%20statements2.jpg)
