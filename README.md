@@ -201,7 +201,7 @@ _SoC afterhours_
 Codewars tasks
 ![day3 exercises on CW](/Images/CW%20W2D2.JPG)
 
-## Day 10 (BootCamp W2)
+## Day 11 (BootCamp W2)
 _5th May_
 
 ### Today's progress:
@@ -217,7 +217,7 @@ _5th May_
 
 ### Links to work / resources:
 
-## Day 11 (BootCamp W2)
+## Day 12 (BootCamp W2)
 _6th May_
 
 ### Today's progress:
@@ -237,3 +237,45 @@ https://github.com/CodeWordJava/W2-Hackathon
 ![Conditional Statment](/Images/conditional%20statements1.JPG)
 
 ![Conditional Statment](/Images/conditional%20statements2.jpg)
+
+
+## Day 13 (BootCamp W3)
+_6th May_
+
+### Today's progress:
+ - Week 2 Recap tasks
+
+#### after Hours 
+ - 
+ 
+### Thoughts:
+ -I have never seen a cat image that made me so happy
+ 
+ 
+ 
+ ## Day 14 (BootCamp W3)
+_9th May_
+
+### Today's progress:
+ - intro to UX/UI 
+ 
+### Thoughts:
+ - Guest speaker was brilliant, he brough to life the importance of storytelling.
+ - I've done the skillshare UX desgin course so feeling very comfortable so far. I think this week will be a good tiem to consolodate my JS learning.
+
+## Day 14 (BootCamp W3)
+_10th May_
+
+### Today's progress:
+ - 
+
+#### after Hours 
+ -
+ - 
+ 
+### Thoughts:
+ - 
+ - 
+
+
+
