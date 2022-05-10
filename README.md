@@ -238,9 +238,16 @@ https://github.com/CodeWordJava/W2-Hackathon
 
 ![Conditional Statment](/Images/conditional%20statements2.jpg)
 
+## Day 13 (BootCamp W2)
+_7th May_
 
-## Day 13 (BootCamp W3)
-_6th May_
+### Today's progress:
+ - rest day
+
+
+
+## Day 14 (BootCamp W3)
+_8th May_
 
 ### Today's progress:
  - Week 2 Recap tasks
@@ -253,7 +260,7 @@ _6th May_
  
  
  
- ## Day 14 (BootCamp W3)
+ ## Day 15 (BootCamp W3)
 _9th May_
 
 ### Today's progress:
@@ -263,7 +270,7 @@ _9th May_
  - Guest speaker was brilliant, he brough to life the importance of storytelling.
  - I've done the skillshare UX desgin course so feeling very comfortable so far. I think this week will be a good tiem to consolodate my JS learning.
 
-## Day 14 (BootCamp W3)
+## Day 16 (BootCamp W3)
 _10th May_
 
 ### Today's progress:
