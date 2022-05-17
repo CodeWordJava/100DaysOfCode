@@ -274,15 +274,84 @@ _9th May_
 _10th May_
 
 ### Today's progress:
- - 
-
-#### after Hours 
- -
- - 
+ - Another great guest speaker talking us through their journey
+ - Looking a UX and disney ideation
  
 ### Thoughts:
- - 
- - 
+ - Not sure this is where i want to take my journey, everyone seems very high energy and creative but I open to listening
 
+## Day 17 (BootCamp W3)
+_11th May_
 
+### Today's progress:
+ - Another great guest speaker talking us through their journey
+ - more reviewing design concepts 
+ 
+## Day 18 (BootCamp W3)
+_12th May_
+
+### Today's progress:
+ - Intro to miro and google jamboard
+ - Intro to figma
+ 
+### Thoughts:
+ - Figma was pretty overwheling as i have only used adobe XD before and that was some time ago.
+ - I was concious we had a project to dliever tomorrow that would need figma so took this evening to run through some yourtube resources and start an external wireframe project.
+ - 
+## Day 18 (BootCamp W3)
+_13th May_
+
+### Today's progress:
+ - HACKATHON 3
+ - todays task was to create a landing page for a website along with the UX/UI considerations
+ 
+### Thoughts:
+ - Really enjoyed todays hacka thon which was a surpise as i sdtarted the week feeling like UX was maybe not my thing.
+ - Finally felt like i was working in a team/partnershiop and we paced the day really well.
+ - I would like to code the project before the end of the course.
+
+## Day 19 (BootCamp W3)
+_14th May_
+
+### Today's progress:
+ - Completed the first part of the homework to create a UX/UI research pack for my own portfolio landing page
+ - mocked up a lo res wireframe and a high res wire frame
+  
+### Thoughts:
+ - Really enjoyed doing this research and where i thought i would be more backend focused I am suprised how rewarding the front end additional tasks have been.
+ - Fimga is finally making sense which has really helped me be creative
+ 
+ ## Day 20 (BootCamp W3)
+_15th May_
+
+### Today's progress:
+ - decided after review and sleeping on it i didn't like version 1 of my homewrok so mocked up version 2
+ - learned how to prototype in figma which was a lot of fun and great for showing friends and family my ideas for feedback.
+  
+### Thoughts:
+ -Super excited to build this up over the weeks to come and learn the skills to code the animations that i learned in figma
+ 
+ ## Day 21 (BootCamp W4!!)
+_16th May_
+
+### Today's progress:
+ -Node js intro.. 
+ intro to backend and servers
+  
+### Thoughts:
+ -feeling pretty comfy with concept of command line and not broswer interface having just finished up a bootcamp whihc was pure command line.
+  - still a bit wobbly with a few syntax
+
+ ## Day 21 (BootCamp W4)
+_17th May_
+
+### Today's progress:
+ - APIs on the backend
+ - linking files /references files 
+ - localhost and ports
+  
+### Thoughts:
+  - lots of new syntax which are ahrd to remember but i am sure will start to stick as the week goes on.
+  - need to do a review and arrays ( pushing to a new array and how to access an item within the array)
+ 
 
